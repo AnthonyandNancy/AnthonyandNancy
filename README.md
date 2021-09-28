@@ -52,6 +52,12 @@
       </a>
       <br>JavaScript
     </td>
+          <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/vue-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Vue
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
@@ -84,6 +90,8 @@
     </td>
   </tr>
 </table>
+
+
 
 
 <h2 align="left">Coding Activity</h2>
